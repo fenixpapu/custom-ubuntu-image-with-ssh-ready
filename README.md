@@ -44,3 +44,4 @@ ssh -i id_rsa ubuntu@172.17.0.3
 
 ```sh
 rm ~/.ssh/known_hosts
+```
